@@ -4,7 +4,7 @@ I'm a highschool student trying to jump into CS & Game Development :)
 I have yet to fully understand how Github works but the community seems very friendly. I would really like to get to collaborate with others and learn more.
 I can't wait to get started on fun projects! 
 
-Pronouns: she/they
+Pronouns: she/he/they
 <!--
 **comshiro/comshiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
